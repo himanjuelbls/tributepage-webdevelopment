@@ -1,45 +1,45 @@
 body{
-				font-family; Roboto, Aerial, Helvetic
+font-family; Roboto, Aerial, Helvetic
 }
 			
-				 header h1{
-				 margin-top: 5rem;
-				text-align: center;
-				border-bottom: 4px solid black;
-				padding-bottom: 5rem;
+ header h1{
+	   margin-top: 5rem;
+	   text-align: center;
+	   border-bottom: 4px solid black;
+	   padding-bottom: 5rem;
 }
 
 img{
-				padding-top: 5rem;
+	 padding-top: 5rem;
 }
 
 
 p.span{
-   		text-align: center;
-				font-size: 1.5rem;
-				border-bottom: 4px solid black;
+   	text-align: center;
+	font-size: 1.5rem;
+	border-bottom: 4px solid black;
 } 
 p{
      font-size: 2rem;
      }
      
 .vl{
-  border-left: 6px solid black;
-  height: 500px;
-  float:left;
-  position: absolute;
-  left: 50%;
-  margin-left: -3px;
-  top: 0;
+      border-left: 6px solid black;
+      height: 500px;
+      float:left;
+      position: absolute;
+      left: 50%;
+      margin-left: -3px;
+      top: 0;
   }
     h2{
-     				font-size: 2rem;
+     	font-size: 2rem;
      }
     
     ul li{
-    				font-size: 2rem;
-    				padding: 1rem;
+    	 font-size: 2rem;
+    	 padding: 1rem;
     }
 ul{
-				border-bottom: 4px solid black;
+       border-bottom: 4px solid black;
 }
