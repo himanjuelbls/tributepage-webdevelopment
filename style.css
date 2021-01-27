@@ -25,12 +25,10 @@ p{
      
 .vl{
       border-left: 6px solid black;
-      height: 500px;
+      height: 50px;
       float:left;
       position: absolute;
       left: 50%;
-      margin-left: -3px;
-      top: 0;
   }
     h2{
      	font-size: 2rem;
