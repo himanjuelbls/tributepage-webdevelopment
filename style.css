@@ -25,14 +25,14 @@ p{
      
 .vl{
       border-left: 6px solid black;
-      height: 50px;
+      height: 100px;
       float:left;
       position: absolute;
       left: 50%;
   }
     h2{
      	font-size: 2rem;
-        margin-top: 5rem; 
+        margin-top: 10rem; 
      }
     
     ul li{
